@@ -2,8 +2,6 @@
 
  - I've been learning how to program for over 2 years now. Started out by learning on my own and then going to school for it.
 
- - Love basketball, hiking, swimming at the beach, and hanging with friends.
-
  - I'm interested in assisting others with projects and learning more about different languages.
 
 <!---
