@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @kahookele
+# Aloha! I'm John Kaho'okele 🌴
 
- - I've been learning how to program for over 2 years now. Started out by learning on my own and then going to school for it.
+## About Me
+👩‍💻 I'm a passionate web developer from Hawaii.
+🌊 Inspired by the beauty of the islands, I craft websites that are as functional as they are beautiful.
+🤝 I'm on the lookout for opportunities to collaborate with others to enhance website productivity.
 
- - I'm interested in assisting others with projects and learning more about different languages.
+## Skills
+- **Ruby**: Building robust back-end applications
+- **JavaScript**: Adding interactive features to web pages
+- **HTML**: Structuring content with semantic markup
+- **CSS**: Styling with a flair for responsive design
+- **Python**: Creating web applications using Django
 
-<!---
-kahookele/kahookele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Collaboration
+I'm always open to collaborating on projects that aim to improve user experience and efficiency. If you're interested in teaming up, feel free to reach out!
+
+## Let's Connect
+- 📫 How to reach me: kahookelekelii@gmail.com
+- 👥 LinkedIn: www.linkedin.com/in/john-kaho’okele-2b1978b7
+- 🐙 GitHub: https://github.com/kahookele
+
+Mahalo for visiting my profile! Let's create something amazing together.
