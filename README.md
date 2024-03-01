@@ -11,6 +11,7 @@
 - **HTML**: Structuring content with semantic markup
 - **CSS**: Styling with a flair for responsive design
 - **Python**: Creating web applications using Django
+- **React**: Designing and maintaining web applications
 
 ## Collaboration
 I'm always open to collaborating on projects that aim to improve user experience and efficiency. If you're interested in teaming up, feel free to reach out!
